@@ -1,16 +1,13 @@
-## Hi there 👋
+## Daniel Dimick
 
-<!--
-**deepdmk/deepdmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer and Enterprise Transformation Consultant bridging strategy, transformation, and technical implementation.
 
-Here are some ideas to get you started:
+**What I build:** Fine-tuned SLMs, multi-agent architectures, RAG systems, and agentic workflows for enterprise AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Featured Work:**
+- [Enterprise AI Case Study](https://deepdmk.github.io/enterprise-ai-case-study/) - Full enterprise AI transformation from McKinsey 7S through 14 fine-tuned models and a learned orchestrator. $163K total investment vs. $2-7M vendor approaches.
+- [AI Engineering Portfolio](https://github.com/deepdmk/ai-engineer-cert-portfolio) - 12+ production-ready projects spanning deep learning, NMT, LoRA fine-tuning, DPO alignment, RAG, and multi-agent systems.
+
+**Certifications:** IBM AI Engineering Professional | IBM Advanced RAG & Agentic AI Professional
+
+**Connect:** [LinkedIn](your-linkedin-url) | [Medium](your-medium-url)
