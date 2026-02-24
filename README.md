@@ -4,7 +4,7 @@ AI Engineer and Enterprise Transformation Consultant bridging strategy, transfor
 
 **What I build:** Fine-tuned SLMs, multi-agent architectures, RAG systems, and agentic workflows for enterprise AI.
 
-**Case Study:** [Enterprise AI Transformation](https://deepdmk.github.io/enterprise-ai-case-study/) - From McKinsey 7S through 14 fine-tuned models and a learned orchestrator. $163K total investment vs. $2-7M vendor approaches.
+**Case Study:** [Enterprise AI Transformation](https://deepdmk.github.io/enterprise-ai-case-study/) - 6-phase architecture from embeddings through 14 fine-tuned SLMs, 3 MoE division agents, and a learned orchestrator. $163K total investment vs. $2-7M vendor approaches.
 
 **Projects:**
 
