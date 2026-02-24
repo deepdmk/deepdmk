@@ -10,4 +10,4 @@ AI Engineer and Enterprise Transformation Consultant bridging strategy, transfor
 
 **Certifications:** IBM AI Engineering Professional | IBM Advanced RAG & Agentic AI Professional
 
-**Connect:** [LinkedIn](your-linkedin-url) | [Medium](your-medium-url)
+**Connect:** [LinkedIn] (https://www.linkedin.com/in/dpdimick/) | [Medium](https://medium.com/@thedevelopingedge)
